@@ -1,4 +1,4 @@
-# TL;DR
+# Cloud and Geo-index based Social Network
 This is a web service written in Go that provides geo-location based search and facial recognition functionality. It provides three main APIs: ```post```,and ```search```. 
 - Post: Users can submit a post with a message, geolocation and media file.
 - Search: Allows users to search nearby posts based on geo-location.
